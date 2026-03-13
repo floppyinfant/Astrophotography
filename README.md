@@ -183,7 +183,7 @@ ISO 6400
 
 ## Sternbilder
 
-[Stellarium](https://stellarium-labs.com/stellarium-web/)
+Quelle: [Stellarium](https://stellarium-labs.com/stellarium-web/)
 
 Orion
 
