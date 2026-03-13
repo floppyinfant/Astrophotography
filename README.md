@@ -210,7 +210,9 @@ Die Plejaden und die Andromeda Galaxie wurden ausserhalb der Stadt aufgenommen; 
 
 ![Warte](docs/settings/grueninger_warte/IMG_0627.jpeg)
 
-In Memoriam Hans Peter (Rastplatz unserer letzten gemeinsamen Radtour).
+In Memoriam Hans Peter (Rastplatz unserer letzten Radtour).
+
+---
 
 ### Credits
 
