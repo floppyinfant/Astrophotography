@@ -184,7 +184,6 @@ ISO 6400
 ## Sternbilder
 
 ![orion1](docs/settings/constellations/orion1.PNG)
-![orion1](docs/settings/constellations/orion2.PNG)
 ![orion1](docs/settings/constellations/orion3.PNG)
 
 ![orion1](docs/settings/constellations/pleiades1.PNG)
@@ -202,4 +201,10 @@ Orion wurde im Hinterhof umgeben von Straßenlaternen aufgenommen:
 Die Plejaden und die Andromeda Galaxie wurden ausserhalb der Stadt aufgenommen; allerding befand sich die Andromeda Galaxie sehr niedrig am Horizont über dem Lichtkegel der Stadt.
 
 ![Warte](docs/settings/grueninger_warte/IMG_0627.jpeg)
+
+### Credits
+
+Danke an Mads für das Interesse, das Ausleihen der Bücher und die Begleitung bei [AstroGC](https://www.astrogc.com/) und den Planetarien.
+
+Danke an Christine für das Ausleihen des Kamera Equipments und die Anmeldung zur [Vorlesung](https://homepages.fh-friedberg.de/jomo/vorles.htm).
 
