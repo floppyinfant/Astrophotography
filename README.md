@@ -1,4 +1,4 @@
-![App](orion_m42.jpg)
+![Orion](Orion/orion_m42.jpg)
 
 
 # Astrophotography
@@ -10,9 +10,15 @@ Ausrüstung
 - Zeitauslöser (Intervalometer)
 - Rotlicht Taschenlampe, weißes T-Shirt und Smartphone für Calibration Frames
 
+
 Stellarium (App) für Orientierung am Nachthimmel
 - https://stellarium.org/
 - https://stellarium-web.org/
+
+
+Karten für Lichtverschmutzung (Bortle classes)
+- https://www.lightpollutionmap.info/
+- https://lightpollutionmap.app/de/
 
 ---
 
@@ -32,7 +38,7 @@ Aperture / Blende offen: f/5.6 (besser kleiner)
 
 ISO: 1600 - 6400
 
-Shutter Speed → ca. 1s Sub-Exposure ohne Tracking mit 300mm Brennweite und APS-C Sensor (Rule of 500 oder NPF-Formula, siehe unten)
+Shutter Speed → ca. 1s Sub-Exposure ohne Tracking mit 300mm Brennweite und APS-C Sensor ([Rule of 500 oder NPF-Formula](docs/exposure_times.md)))
 
 ---
 
@@ -53,26 +59,11 @@ Calibration Frames: https://youtu.be/uIZtNCd5Ehs
 
 ---
 
-## Rule of 500
-
-500 / (Crop Factor 1,6 x 300mm Brennweite Teleobjektiv) = 500 / 480 = 1,04
-
-## NPF-Formula
-
-https://web.archive.org/web/20200121080401/http://www.sahavre.fr/tutoriels/astrophoto/34-regle-npf-temps-de-pose-pour-eviter-le-file-d-etoiles (benutze Übersetzer in Browser)
-
-Tracking → longer exposure possible
-- Star-Tracker, Star Watcher
-- Autoguider
-- Parallaktische Montierung
-
----
-
 # Stacking and Post-Processing
 
 Siril: https://siril.org/
 
-Stacking erhöht das “Increase Signal to Noise Ratio (SNR)”. Die Belichtungen der Fotos (Sub-Exposures) werden addiert (Total Exposure)
+Stacking erhöht das "Signal to Noise Ratio (SNR)”. Die Belichtungen der Fotos (Sub-Exposures) werden addiert (Total Exposure)
 
 
 Workflow
@@ -93,10 +84,8 @@ Preprocessing (durch Skript, benötigt etwa 200GB freien Speicherplatz)
     - darks: Sensor Ausleserauschen, Hotpixel
     - flats: Vignettierung, Staub
     - biases: Grundrauschen
-- Registrierung
-- Global Star Alignment
-- Stacking
-- Winsorized Sigma Clipping
+- Registrierung == Global Star Alignment
+- Stacking (Winsorized Sigma Clipping)
 
 
 Bildbearbeitung (manuell)
@@ -114,4 +103,88 @@ Bildbearbeitung (manuell)
 References
 
 https://www.youtube.com/playlist?list=PLssH_Otzm89CpFYOq4RV7sKtZKzHKKYJw
+
+https://de.wikipedia.org/wiki/Messier-Katalog
+
+https://en.wikipedia.org/wiki/Astrophotography
+
+https://de.wikipedia.org/wiki/Astrofotografie
+
+---
+
+# Orion Nebel (M42)
+
+Der Orionnebel (Katalogbezeichnung M 42 oder NGC 1976) ist ein Emissionsnebel im Sternbild Orion. Er befindet sich – wie das Sonnensystem selbst – im Orionarm der Milchstraße. Durch die große scheinbare Helligkeit seines Zentrums oberhalb der 4. Magnitude ist der Nebel mit bloßem Auge sternähnlich als Teil des Schwertes des Orions südlich der drei Sterne des Oriongürtels gut sichtbar.[2] Insgesamt besitzt er eine Winkelausdehnung von etwa einem Grad.
+
+Der Orionnebel ist ein Teilgebiet der interstellaren Molekülwolke OMC-1 im Orion-Molekülwolkenkomplex. Er besteht überwiegend aus Wasserstoff. In dem Nebel entstehen Sterne, deren ionisierende Strahlung den Nebel im sichtbaren Bereich leuchten lässt. Er wird daher auch als H-II-Gebiet klassifiziert.[8] Mit einer Entfernung von etwa 414 Parsec[3] (1350 Lichtjahre) ist er in der galaktischen Nachbarschaft eines der aktivsten Sternentstehungsgebiete.
+
+https://de.wikipedia.org/wiki/Orionnebel
+
+Astronomische Lösung (plate solving) in Siril:
+
+![OrionPlateSolving](Orion/plate_solving_orion_m42.png)
+
+Processed Image of Orion Nebula:
+
+![Orion](Orion/orion_m42.jpg)
+
+Aufgenommen in Bortle class 5.2 Area
+date: 2026-03-05
+exposure: 415 * 1s
+focal length 300mm
+aperture f/5.6
+shutter speed 1s
+ISO 6400
+
+---
+
+# Plejaden / Pleiades (M45)
+
+Seven Sisters / Siebengestirn
+
+Die Plejaden (auch Siebengestirn oder M45) sind ein markanter, offener Sternhaufen im Sternbild Stier, der über 400 Lichtjahre entfernt ist. Die im Herbst gut sichtbaren, bläulichen Sterne sind mythologisch als die „Sieben Schwestern“ bekannt.
+
+https://de.wikipedia.org/wiki/Plejaden
+
+https://en.wikipedia.org/wiki/Pleiades
+
+![Pleiades](Pleiades/result_408s_processed2.jpg)
+
+Aufgenommen in Bortle class 4.9 Area
+date: 2026-03-12
+exposure: 408 * 1s
+focal length 300mm
+aperture f/5.6
+shutter speed 1s
+ISO 6400
+
+---
+
+# Andromeda Galaxy
+
+Die Andromedagalaxie ist mit rund 2,5 Millionen Lichtjahren Entfernung die am nächsten zur Milchstraße gelegene Spiralgalaxie. Sie ist zugleich das entfernteste Objekt, das unter guten Bedingungen ohne technische Hilfsmittel mit bloßem Auge beobachtet werden kann. Sie liegt im Sternbild Andromeda, von dem auch ihr Name stammt. Häufig wird sie auch kurz als M31 bezeichnet nach ihrem Eintrag im Messier-Katalog.
+
+https://de.wikipedia.org/wiki/Andromedagalaxie
+
+![AndromedaGalaxy](Andromeda/result_668s_processed.jpg)
+
+Aufgenommen in Bortle class 4.9 Area
+date: 2026-03-12
+exposure: 98 * 5s sub-exposure = 485s total exposure
+focal length 75mm
+aperture f/5.6
+shutter speed 3.2s
+ISO 6400
+
+
+
+Aufgenommen in Bortle class 4.9 Area
+date: 2026-03-12
+exposure: 209 * 3,2s sub-exposure = 668s total exposure
+focal length 75mm
+aperture f/5.6
+shutter speed 3.2s
+ISO 6400
+
+---
 
