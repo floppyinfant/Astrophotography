@@ -161,7 +161,7 @@ ISO 6400
 
 ---
 
-# Andromeda Galaxy
+# Andromeda Galaxy (M31)
 
 Die Andromedagalaxie ist mit rund 2,5 Millionen Lichtjahren Entfernung die am nächsten zur Milchstraße gelegene Spiralgalaxie. Sie ist zugleich das entfernteste Objekt, das unter guten Bedingungen ohne technische Hilfsmittel mit bloßem Auge beobachtet werden kann. Sie liegt im Sternbild Andromeda, von dem auch ihr Name stammt. Häufig wird sie auch kurz als M31 bezeichnet nach ihrem Eintrag im Messier-Katalog.
 
@@ -183,10 +183,18 @@ ISO 6400
 
 ## Sternbilder
 
+[Stellarium](https://stellarium-labs.com/stellarium-web/)
+
+Orion
+
 ![orion1](docs/settings/constellations/orion1.PNG)
 ![orion1](docs/settings/constellations/orion3.PNG)
 
+Plejaden im Sternbild Stier (Taurus)
+
 ![orion1](docs/settings/constellations/pleiades1.PNG)
+
+Andromeda Galaxy
 
 ![orion1](docs/settings/constellations/andromeda.PNG)
 
