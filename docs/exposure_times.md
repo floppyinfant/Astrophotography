@@ -1,6 +1,6 @@
-# shutter speed and exposure times (Verschlusszeit und Belichtungszeit)
+# shutter speed and exposure times (Verschlusszeit und Belichtungszeiten)
 
-Abschätzung der maximale Belichtungszeit für Kamera-Aufnahmen ohne Tracking (Nachführung) um **Startrails** zu vermeiden
+Abschätzung der maximale Belichtungszeit für Kamera-Aufnahmen ohne Tracking (Nachführung), um **Startrails** zu vermeiden
 
 Durch die Erdrotation bewegen sich die Himmelskörper scheinbar auf konzentrischen Kreisbahnen um den Polarstern. Abhängig von der Brennweite des verwendeten Objektives existiert eine maximale Belichtungszeit, bei welcher die Sterne noch punktförmig abgebildet werden.
 
@@ -16,7 +16,10 @@ Andere Werte ab 300 sind auch üblich (z.B. 420 in Wikipedia).
 
 https://web.archive.org/web/20200121080401/http://www.sahavre.fr/tutoriels/astrophoto/34-regle-npf-temps-de-pose-pour-eviter-le-file-d-etoiles (benutze Übersetzer in Browser)
 
-Tracking → longer exposures possible
+---
+
+## Tracking 
+→ longer exposures possible
 - Star-Tracker, Star Watcher
 - Autoguider
 - Parallaktische Montierung
