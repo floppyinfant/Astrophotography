@@ -5,7 +5,7 @@
 
 Ausrüstung
 - DSLR (Canon EOS 60D)
-- Tele-Objektiv 300mm
+- Objektiv (Kit Zoom Lens EF 75-300mm 1:4-5.6)
 - Stativ
 - Zeitauslöser (Intervalometer)
 - Rotlicht Taschenlampe, weißes T-Shirt und Smartphone für Calibration Frames
@@ -38,7 +38,8 @@ Aperture / Blende offen: f/5.6 (besser kleiner)
 
 ISO: 1600 - 6400
 
-Shutter Speed → ca. 1s Sub-Exposure ohne Tracking mit 300mm Brennweite und APS-C Sensor ([Rule of 500 oder NPF-Formula](docs/exposure_times.md)))
+Shutter Speed → ca. 1s Sub-Exposure ohne Tracking mit 300mm Brennweite und APS-C Sensor
+- ["Rule of 500" and NPF-Formula](docs/exposure_times.md)
 
 ---
 
@@ -61,12 +62,12 @@ Calibration Frames: https://youtu.be/uIZtNCd5Ehs
 
 # Stacking and Post-Processing
 
-Siril: https://siril.org/
+OpenSource Software Siril: https://siril.org/
 
 Stacking erhöht das "Signal to Noise Ratio (SNR)”. Die Belichtungen der Fotos (Sub-Exposures) werden addiert (Total Exposure)
 
 
-Workflow
+Workflow:
 
 Homeverzeichnis auswählen
 
@@ -179,4 +180,26 @@ shutter speed 3.2s;
 ISO 6400
 
 ---
+
+## Sternbilder
+
+![orion1](docs/settings/constellations/orion1.PNG)
+![orion1](docs/settings/constellations/orion2.PNG)
+![orion1](docs/settings/constellations/orion3.PNG)
+
+![orion1](docs/settings/constellations/pleiades1.PNG)
+
+![orion1](docs/settings/constellations/andromeda.PNG)
+
+---
+
+## Settings
+
+Orion wurde im Hinterhof umgeben von Straßenlaternen aufgenommen:
+
+![Hof](docs/settings/backyard/IMG_0559.jpeg)
+
+Die Plejaden und die Andromeda Galaxie wurden ausserhalb der Stadt aufgenommen; allerding befand sich die Andromeda Galaxie sehr niedrig am Horizont über dem Lichtkegel der Stadt.
+
+![Warte](docs/settings/grueninger_warte/IMG_0627.jpeg)
 
