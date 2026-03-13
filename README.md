@@ -128,12 +128,12 @@ Processed Image of Orion Nebula:
 
 ![Orion](Orion/orion_m42.jpg)
 
-Aufgenommen in Bortle class 5.2 Area
-date: 2026-03-05
-exposure: 415 * 1s
-focal length 300mm
-aperture f/5.6
-shutter speed 1s
+Aufgenommen in Bortle class 5.2 Area; 
+date: 2026-03-05; 
+exposure: 415 * 1s; 
+focal length 300mm; 
+aperture f/5.6; 
+shutter speed 1s; 
 ISO 6400
 
 ---
@@ -150,12 +150,12 @@ https://en.wikipedia.org/wiki/Pleiades
 
 ![Pleiades](Pleiades/result_408s_processed2.jpg)
 
-Aufgenommen in Bortle class 4.9 Area
-date: 2026-03-12
-exposure: 408 * 1s
-focal length 300mm
-aperture f/5.6
-shutter speed 1s
+Aufgenommen in Bortle class 4.9 Area; 
+date: 2026-03-12; 
+exposure: 408 * 1s; 
+focal length 300mm; 
+aperture f/5.6; 
+shutter speed 1s; 
 ISO 6400
 
 ---
@@ -168,22 +168,14 @@ https://de.wikipedia.org/wiki/Andromedagalaxie
 
 ![AndromedaGalaxy](Andromeda/result_668s_processed.jpg)
 
-Aufgenommen in Bortle class 4.9 Area
-date: 2026-03-12
-exposure: 98 * 5s sub-exposure = 485s total exposure
-focal length 75mm
-aperture f/5.6
-shutter speed 3.2s
-ISO 6400
 
 
-
-Aufgenommen in Bortle class 4.9 Area
-date: 2026-03-12
-exposure: 209 * 3,2s sub-exposure = 668s total exposure
-focal length 75mm
-aperture f/5.6
-shutter speed 3.2s
+Aufgenommen in Bortle class 4.9 Area; 
+date: 2026-03-12; 
+exposure: 209 * 3,2s sub-exposure = 668s total exposure; 
+focal length 75mm; 
+aperture f/5.6; 
+shutter speed 3.2s; 
 ISO 6400
 
 ---
