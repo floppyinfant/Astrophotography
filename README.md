@@ -113,6 +113,8 @@ https://de.wikipedia.org/wiki/Astrofotografie
 
 ---
 
+<!-- Deep-Sky Photography -->
+
 # Orion Nebel (M42)
 
 Der Orionnebel (Katalogbezeichnung M 42 oder NGC 1976) ist ein Emissionsnebel im Sternbild Orion. Er befindet sich – wie das Sonnensystem selbst – im Orionarm der Milchstraße. Durch die große scheinbare Helligkeit seines Zentrums oberhalb der 4. Magnitude ist der Nebel mit bloßem Auge sternähnlich als Teil des Schwertes des Orions südlich der drei Sterne des Oriongürtels gut sichtbar.[2] Insgesamt besitzt er eine Winkelausdehnung von etwa einem Grad.
@@ -210,13 +212,13 @@ Die Plejaden und die Andromeda Galaxie wurden ausserhalb der Stadt aufgenommen; 
 
 ![Warte](docs/settings/grueninger_warte/IMG_0627.jpeg)
 
-In Memoriam Hans Peter (Rastplatz unserer letzten Radtour).
+In Memoriam Hans Peter.
 
 ---
 
 ### Credits
 
-Danke an Mads für das Interesse, das Ausleihen der Bücher und die Begleitung bei [AstroGC](https://www.astrogc.com/) und den Planetarien.
+Danke an Mads für das Interesse, das Ausleihen der Bücher und die Begleitung bei [AstroGC](https://www.astrogc.com/) und den Planetarien in [Mannheim](https://www.planetarium-mannheim.de/), [Athen](https://www.eef.edu.gr/en/the-foundation/planetarium/).
 
 Danke an Christine für das Ausleihen des Kamera Equipments und die Anmeldung zur [Vorlesung](https://homepages.fh-friedberg.de/jomo/vorles.htm).
 
